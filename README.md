@@ -25,3 +25,6 @@ added warped fungus finder
 
 pls report any bugs in the Issues tab
 
+
+PASSWORD:"seedcracker012414" without the ""
+
